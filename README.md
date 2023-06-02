@@ -2,16 +2,17 @@
 
 ## Introduction
 
-I am Rasoul Akhoundi UI/UX designer with 2 years of professional experience. I'm interested in all kinds of visual communication, but my major focus is on designing web & mobile interfaces. I aim to make a difference through my creative solution.
+Hi there, I'm Rasoul. I am a Master of Science student in computer engineering (Artificial Intelligence) at the Yazd university. Received B.Sc. degree from Shahid Beheshti University, Tehran. I started programming at the age of 14 in the C/C++ language. After that, I worked in the field of UI/UX during my bachelor's degree. And now I decided to focus all my attention on Python programming and the machine learning fields.
 
 ### High School 🎒
 &nbsp;&nbsp;&nbsp;&nbsp;NODET Yazd, Mathematics
 ### University 🎓
-&nbsp;&nbsp;&nbsp;&nbsp;Shahid Beheshti University, Computer Engineering BA
+&nbsp;&nbsp;&nbsp;&nbsp;Shahid Beheshti University, Computer Engineering B.Sc
+&nbsp;&nbsp;&nbsp;&nbsp;Yazd University, Artificial Intelligence M.Sc
 
 ## Language & Software
 
-[![](https://img.shields.io/badge/-python?style=for-the-badge&logo=java)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![](https://img.shields.io/badge/-Adobe&nbsp;XD-black?style=for-the-badge&logo=Adobe%20XD)](https://www.adobe.com/products/xd.html)
 [![](https://img.shields.io/badge/-photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://www.adobe.com/products/photoshop.html)
@@ -20,3 +21,4 @@ I am Rasoul Akhoundi UI/UX designer with 2 years of professional experience. I'm
 ## Contact Me
 [![](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=Telegram)](https://telegram.me/rasoulzardeyni)
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:rasoulzardeyni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasoul-zardeyni-288454277/)
